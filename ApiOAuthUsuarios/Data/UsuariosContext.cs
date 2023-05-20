@@ -1,4 +1,4 @@
-﻿using ApiOAuthTutorial.Models;
+﻿using ApiOAuthUsuarios.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace ApiOAuthUsuarios.Data

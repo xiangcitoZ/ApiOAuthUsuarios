@@ -1,5 +1,5 @@
-﻿using ApiOAuthTutorial.Data;
-using ApiOAuthTutorial.Models;
+﻿using ApiOAuthUsuarios.Data;
+using ApiOAuthUsuarios.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace ApiOAuthUsuarios.Repositories
